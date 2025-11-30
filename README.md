@@ -1,2 +1,2 @@
-# Deep-Learning-LSTM-Algorithm-to-Forcasting-Financial-Markets
-Forcasting EUR/USD major forex pair using deepl learning-lstm algorithm(multi inputs and single output)
+# Deep-Learning-LSTM-Algorithm-to-Forecasting-Financial-Markets
+Forecasting EUR/USD major forex pair using deepl learning-lstm algorithm(multi inputs and single output)
